@@ -52,7 +52,7 @@ Things I code with
 <h1>Copy Profile</h1>
 
 ```md
-https://github.com/alvin-kiveu/
+(https://github.com/bundi)
 ```
 
 
